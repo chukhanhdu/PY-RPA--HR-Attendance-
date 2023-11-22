@@ -1,0 +1,64 @@
+,Employee name,Position,Status,Start date,End date,Days,AM/PM,Start time,End time,Detail,Receivedtime,Subject,Sender,Approved stastus
+0,Nguyen Ngoc Mui,Staff,Paid leave,10/10/2023,10/10/2023,0.5,PM,,,Personal,10/10/2023 11:46,98063278_Nguyen Ngoc Mui_apply date: 10/10/2023,AITC-HCM-Mui,
+1,,,,,,,,,,,10/10/2023 11:49,98063278_Nguyen Ngoc Mui_apply date: 10/10/2023,Hiroshi Nagata AITC,Approved
+2,,,,,,,,,,,10/10/2023 13:00,98063278_Nguyen Ngoc Mui_apply date: 10/10/2023,Hiroshi Nagata AITC,Approved
+3,TRAN NHU HONG PHUC,Staff,Paid leave,10/10/2023,10/10/2023,0.5,PM,00:00,,Personal reason,10/10/2023 14:14,72716587_TRAN NHU HONG PHUC_apply date: 10/10/2023,AITC HCM _Phuc,
+4,,,,,,,,,,,10/10/2023 14:18,72716587_TRAN NHU HONG PHUC_apply date: 10/10/2023,AITC HCM _Phuc,Cancel
+5,,,,,,,,,,,10/10/2023 14:55,72716587_TRAN NHU HONG PHUC_apply date: 10/10/2023,Hiroshi Nagata AITC,Approved
+6,Ngo Hong Chau,Manager,Paid leave,12/10/2023,12/10/2023,0.5,AM,,,Personal reason,11/10/2023 08:41,22389285_Ngo Hong Chau_apply date: 11/10/2023,AITC HCM_Jenni (Chau),
+7,,,,,,,,,,,11/10/2023 09:07,22389285_Ngo Hong Chau_apply date: 11/10/2023,Masayuki Mori AITC,Approved
+8,Nguyen Thi Phi Yen,Staff,Forgot card,29/09/2023,29/09/2023,,,8:000,17:00,Forgot card (13:53),13/10/2023 10:14,22107511_Nguyen Thi Phi Yen_apply date: 13/10/2023,AITC-HCM-Yen,
+9,,,,,,,,,,,13/10/2023 10:15,22107511_Nguyen Thi Phi Yen_apply date: 13/10/2023,AITC-HCM-Du,Approved
+10,,,,,,,,,,,17/10/2023 16:55,22389285_Ngo Hong Chau_apply date: 11/10/2023,Hiroshi Nagata AITC,Approved
+11,Nguyen Thi Bich Nhon,Staff,Paid leave,16/10/2023,17/10/2023,1.5,PM,,,Personal reason,19/10/2023 12:00,93073000_Nguyen Thi Bich Nhon_apply date: 19/10/2023,AITC HCM _Nhon,
+12,,,,,,,,,,,19/10/2023 12:00,93073000_Nguyen Thi Bich Nhon_apply date: 19/10/2023,AITC HCM_Jenni (Chau),Approved
+13,Nguyen Thi Bich Nhon,Staff,Paid leave,20/10/2023,20/10/2023,0.5,PM,,,Personal reason,20/10/2023 08:00,37935851_Nguyen Thi Bich Nhon_apply date: 20/10/2023,AITC HCM _Nhon,
+14,,,,,,,,,,,20/10/2023 08:01,37935851_Nguyen Thi Bich Nhon_apply date: 20/10/2023,AITC HCM_Jenni (Chau),Approved
+15,BUI THI CAM XUYEN,Staff,Over Time,23/10/2023,23/10/2023,,,17:30,18:00,Personal reason,23/10/2023 17:10,61116163_BUI THI CAM XUYEN_apply date: 23/10/2023,AITC HCM _Xuyen,
+16,,,,,,,,,,,23/10/2023 17:13,61116163_BUI THI CAM XUYEN_apply date: 23/10/2023,AITC-HCM-Du,
+17,,,,,,,,,,,23/10/2023 17:13,61116163_BUI THI CAM XUYEN_apply date: 23/10/2023,AITC-HCM-Du,
+18,BUI THI CAM XUYEN,Staff,Over Time,23/10/2023,23/10/2023,,,17:30,18:00,take care Air shipment SGN to CKG for Client: KAWAJUN,23/10/2023 17:14,63206889_BUI THI CAM XUYEN_apply date: 23/10/2023,AITC HCM _Xuyen,
+19,,,,,,,,,,,24/10/2023 13:16,63206889_BUI THI CAM XUYEN_apply date: 23/10/2023,AITC HCM_Thanh,Approved
+20,To Thi Hoai Dung,Staff,Unpaid leave,25/10/2023,25/10/2023,0.5,AM,,,Personal reason,24/10/2023 14:11,83310116_To Thi Hoai Dung_apply date: 24/10/2023,AITC HCM-Dung,
+21,,,,,,,,,,,24/10/2023 14:46,83310116_To Thi Hoai Dung_apply date: 24/10/2023,AITC HCM_Jenni (Chau),Approved
+22,le thi ni,Staff,Paid leave,30/10/2023,31/10/2023,2,All day,,,Personal reason,26/10/2023 13:14,56796759_le thi ni_apply date: 26/10/2023,AITC HCM _Ni,
+23,Mai Thi Thu Hien,Staff,Unpaid leave,26/10/2023,26/10/2023,,PM,15:00,17:00,Personal reason,26/10/2023 13:21,83685547_Mai Thi Thu Hien_apply date: 26/10/2023,AITC HCM_Hien,
+24,,,,,,,,,,,26/10/2023 13:47,83685547_Mai Thi Thu Hien_apply date: 26/10/2023,AITC HCM_Thanh,Approved
+25,Tran Nhu Hong Phuc,Staff,Paid leave,08/11/2023,08/11/2023,1,All day,,,Personal reason,27/10/2023 08:05,94754915_Tran Nhu Hong Phuc_apply date: 27/10/2023,AITC HCM _Phuc,
+26,,,,,,,,,,,27/10/2023 08:01,35781397_Tran Nhu Hong Phuc_apply date: 26/10/2023,AITC HCM_Jenni (Chau),Rejected
+27,,,,,,,,,,,26/10/2023 17:44,35781397_Tran Nhu Hong Phuc_apply date: 26/10/2023,AITC HCM_Jenni (Chau),Approved
+28,Tran Nhu Hong Phuc,Staff,Paid leave,08/11/2023,08/11/2023,1,All day,,,Personal reason,26/10/2023 17:43,35781397_Tran Nhu Hong Phuc_apply date: 26/10/2023,AITC HCM _Phuc,
+29,,,,,,,,,,,26/10/2023 17:16,56796759_le thi ni_apply date: 26/10/2023,AITC HCM_Thanh,Approved
+30,,,,,,,,,,,27/10/2023 08:43,94754915_Tran Nhu Hong Phuc_apply date: 27/10/2023,AITC HCM_Jenni (Chau),Approved
+31,BUI THI CAM XUYEN,Staff,Forgot card,30/10/2023,30/10/2023,1,,,,forgot card,30/10/2023 17:28,44721062_BUI THI CAM XUYEN_apply date: 30/10/2023,AITC HCM _Xuyen,
+32,,,,,,,,,,,31/10/2023 08:27,44721062_BUI THI CAM XUYEN_apply date: 30/10/2023,AITC HCM_Thanh,Approved
+33,VO THI NGOC MY,Staff,Paid leave,02/11/2023,02/11/2023,1,All day,,,Personal reason,01/11/2023 12:30,50850181_VO THI NGOC MY_apply date: 01/11/2023,AITC HCM _My,
+34,,,,,,,,,,,01/11/2023 12:30,50850181_VO THI NGOC MY_apply date: 01/11/2023,AITC HCM_Jenni (Chau),Approved
+35,Nguyen Thi Phi Yen,Staff,Forgot card,01/11/2023,01/11/2023,,,8:00,17:00,Forgot card,02/11/2023 09:30,47034541_Nguyen Thi Phi Yen_apply date: 02/11/2023,AITC-HCM-Yen,
+36,,,,,,,,,,,02/11/2023 09:31,47034541_Nguyen Thi Phi Yen_apply date: 02/11/2023,AITC-HCM-Du,Approved
+37,VO THI NGOC MY,Staff,Paid leave,06/11/2023,06/11/2023,0.5,PM,,,Personal reason,06/11/2023 08:36,37922492_VO THI NGOC MY_apply date: 06/11/2023,AITC HCM _My,
+38,,,,,,,,,,,06/11/2023 09:27,37922492_VO THI NGOC MY_apply date: 06/11/2023,AITC HCM_Jenni (Chau),Approved
+39,PHAM THI TAM DAN,Staff,Paid leave,07/11/2023,07/11/2023,0.5,AM,,,Personal reason,06/11/2023 11:16,92159880_PHAM THI TAM DAN_apply date: 06/11/2023,AITC HPH _TÂM ĐAN,
+40,,,,,,,,,,,06/11/2023 11:17,92159880_PHAM THI TAM DAN_apply date: 06/11/2023,AITC HCM_Jenni (Chau),
+41,VU THI HANG,Staff,Paid leave,08/11/2023,08/11/2023,1,All day,00:00,,Personal reason,06/11/2023 13:36,76353775_VU THI HANG_apply date: 06/11/2023,AITC HPH _Hang,
+42,,,,,,,,,,,07/11/2023 07:56,76353775_VU THI HANG_apply date: 06/11/2023,AITC HCM_Jenni (Chau),Approved
+43,Mai Thi Thu Hien,Staff,Paid leave,30/10/2023,03/11/2023,5,All day,,,Personal reason,07/11/2023 13:04,77715083_Mai Thi Thu Hien_apply date: 07/11/2023,AITC HCM_Hien,
+44,BUI THI CAM XUYEN,Staff,Paid leave,13/11/2023,13/11/2023,1,,,,Personal reason,07/11/2023 13:18,35383760_BUI THI CAM XUYEN_apply date: 07/11/2023,AITC HCM _Xuyen,
+45,BUI THI CAM XUYEN,Staff,Paid leave,13/11/2023,13/11/2023,1,,,,Personal reason,07/11/2023 13:24,90349709_BUI THI CAM XUYEN_apply date: 07/11/2023,AITC HCM _Xuyen,
+46,,,,,,,,,,,07/11/2023 13:27,35383760_BUI THI CAM XUYEN_apply date: 07/11/2023,AITC HCM_Thanh,
+47,,,,,,,,,,,07/11/2023 13:28,RE: 35383760_BUI THI CAM XUYEN_apply date: 07/11/2023,AITC HCM _Xuyen,
+48,,,,,,,,,,,07/11/2023 13:28,77715083_Mai Thi Thu Hien_apply date: 07/11/2023,AITC HCM_Thanh,Approved
+49,,,,,,,,,,,08/11/2023 07:59,72644042_Ngo Hong Chau_apply date: 08/11/2023,Hiroshi Nagata AITC,Approved
+50,Ngo Hong Chau,Manager,Paid leave,09/11/2023,09/11/2023,0.5,AM,,,Personal reason,08/11/2023 07:53,72644042_Ngo Hong Chau_apply date: 08/11/2023,AITC HCM_Jenni (Chau),
+51,TO THI HOAI DUNG,Staff,Forgot card,09/11/2023,09/11/2023,,,,,Forgot card,09/11/2023 08:15,55208058_TO THI HOAI DUNG_apply date: 09/11/2023,AITC HCM-Dung,
+52,NGUYEN MINH THANH,Manager,Unpaid leave,10/11/2023,10/11/2023,1,All day,,,Personal,09/11/2023 13:04,92164357_NGUYEN MINH THANH_apply date: 09/11/2023,AITC HCM_Thanh,
+53,,,,,,,,,,,09/11/2023 13:07,92164357_NGUYEN MINH THANH_apply date: 09/11/2023,Masayuki Mori AITC,Approved
+54,TRAN NHU HONG PHUC,Staff,Paid leave,13/11/2023,13/11/2023,1,All day,,,Personal reason,09/11/2023 14:02,62061916_TRAN NHU HONG PHUC_apply date: 09/11/2023,AITC HCM _Phuc,
+55,,,,,,,,,,,09/11/2023 14:07,62061916_TRAN NHU HONG PHUC_apply date: 09/11/2023,AITC HCM_Jenni (Chau),Approved
+56,,,,,,,,,,,09/11/2023 15:21,55208058_TO THI HOAI DUNG_apply date: 09/11/2023,AITC HCM_Jenni (Chau),Approved
+57,TO THI HOAI DUNG,Staff,Unpaid leave,14/11/2023,14/11/2023,,,,,Personal reason,13/11/2023 08:36,64126408_TO THI HOAI DUNG_apply date: 13/11/2023,AITC HCM-Dung,
+58,NGUYEN MINH THANH,Manager,Paid leave,14/11/2023,14/11/2023,1,All day,,,Personal reason,13/11/2023 13:18,52518635_NGUYEN MINH THANH_apply date: 13/11/2023,AITC HCM_Thanh,
+59,,,,,,,,,,,13/11/2023 13:22,52518635_NGUYEN MINH THANH_apply date: 13/11/2023,Masayuki Mori AITC,Approved
+60,,,,,,,,,,,13/11/2023 14:07,64126408_TO THI HOAI DUNG_apply date: 13/11/2023,AITC HCM_Jenni (Chau),Approved
+61,Ngo Hong Chau,Manager,Paid leave,13/11/2023,13/11/2023,0.5,AM,,,Personal reason,13/11/2023 16:36,58461128_Ngo Hong Chau_apply date: 13/11/2023,AITC HCM_Jenni (Chau),
+62,,,,,,,,,,,13/11/2023 16:43,58461128_Ngo Hong Chau_apply date: 13/11/2023,Hiroshi Nagata AITC,Approved
